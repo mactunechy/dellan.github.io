@@ -1,0 +1,8 @@
+@media only screen and (min-width:400px){
+	#punchline{
+		display:none;
+	}
+	#intro-text{
+		margin-top:180px;
+	}
+}
